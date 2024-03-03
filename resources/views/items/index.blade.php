@@ -16,8 +16,7 @@
 
 <body>
 
-    <h1 class="text-center">Items
-    </h1>
+    <h1 class="text-center">Items </h1>
 
     <table class="table m-auto w-75 table-striped">
         <thead>
